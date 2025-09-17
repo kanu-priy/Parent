@@ -1,4 +1,4 @@
-import ParentDashboard from '@/components/ParentDashboard';
+import { ParentDashboard } from '@/modules/parent';
 
 const Index = () => {
   return <ParentDashboard />;
